@@ -1,0 +1,36 @@
+h1 {
+  color: rgb(2, 2, 2);
+  font-family: Arial, Helvetica, sans-serif;
+  margin: auto;
+  text-align: center
+}
+
+h2 {
+  color: rgb(2, 2, 2);
+  font-family: Arial, Helvetica, sans-serif;
+  margin: auto;
+  text-align: left
+}
+
+p {
+  color: rgb(31, 30, 30);
+  font-family: 'Times New Roman', Times, serif;
+  margin: 0 0 20px;
+  text-align: left
+}
+
+.latestblocks {
+  display: flex;
+  flex-wrap: wrap;
+
+  > div {
+    background-color: #eee;
+    margin: 20px;
+    padding: 30px 50px;
+    text-align: center;
+    border-radius: 10px;
+  }
+}
+
+
+/*# sourceMappingURL=index.1303bb05.css.map */
